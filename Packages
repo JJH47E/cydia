@@ -1,0 +1,59 @@
+Package: com.jjh.freeway
+Name: Freeway
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Windows 10 inspired clock widget for XenHTML
+Maintainer: JJH47E <hayter.jonathan@gmail.com>
+Author: JJH47E <hayter.jonathan@gmail.com>
+Section: Widgets
+Depends: com.matchstic.xenhtml
+Filename: debs/freeway.deb
+Size: 589276
+MD5sum: 8589963a9875615d15644349298753ba
+SHA1: 4b4a90fa101c520d9e7d379c2325ea36250529f7
+SHA256: 87ce81dfc3ef74a223d2da7e33d83a354a0e92bc24d64f920a502cd1a95694f0
+
+Package: com.jjh.chalk
+Name: Chalk
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A minimalist clock widget for XenHTML.
+Maintainer: JJH47E <hayter.jonathan@gmail.com>
+Author: JJH47E <hayter.jonathan@gmail.com>
+Section: Widgets
+Depends: com.matchstic.xenhtml
+Filename: debs/chalk.deb
+Size: 122032
+MD5sum: 6719be86d6ad68234b233dca090ec1c7
+SHA1: 367d57cbb6ad95696b727613d0e2adc7d0162cf4
+SHA256: 8fcbf2464e40fdb3b6a477b28ab40ae7aaf5b630adf557fcb23603e2fba9553e
+
+Package: com.jjh.chalkdate
+Name: ChalkDate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A minimalist date widget for XenHTML.
+Maintainer: JJH47E <hayter.jonathan@gmail.com>
+Author: JJH47E <hayter.jonathan@gmail.com>
+Section: Widgets
+Depends: com.matchstic.xenhtml
+Filename: debs/chalkdate.deb
+Size: 150360
+MD5sum: 69007872d4c5420a79f3840436c08644
+SHA1: 682e4f120595a4fd9f5f8a65315936f279f0753d
+SHA256: 9fb9836065a339a0718d29da72ce70cb011c2a0e0e0303dc14ef6cf40f76d726
+
+Package: com.jjh.freewaymodules
+Name: FreewayModules
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Windows 10 inspired WiFi and Battery widget for XenHTML.
+Maintainer: JJH47E <hayter.jonathan@gmail.com>
+Author: JJH47E <hayter.jonathan@gmail.com>
+Section: Widgets
+Depends: com.matchstic.xenhtml
+Filename: debs/freewaymodules.deb
+Size: 2852
+MD5sum: d3de95bef41a78b2839833602f0692e5
+SHA1: c35472ddb87a1093f086ee34a4769aeadf893914
+SHA256: 096e07459ba77af63bf27696603714343a38580021ce22542a0a88099a2001b4
